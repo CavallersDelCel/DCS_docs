@@ -16,4 +16,4 @@ Al final de tot, veuràs les missions programades per als següents dies. Per ma
 
 Un cop arribi el dia de la missió: has d'entrar 15 minuts abans al TeamSpeak 3, repassar que tinguis tot actualitzat i que l'SRS funcioni. Si tens algun dubte, pots preguntar als companys abans d'entrar.
 
-[Següent pas >](/gn/marine)
+[Següent pas >](/gn/pilot)
