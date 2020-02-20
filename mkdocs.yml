@@ -19,8 +19,8 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Documentació Senglars
-site_description: Documentació del grup Senglars de l'Star Citizen. Cavallers del Cel
+site_name: Documentació grup DCS
+site_description: Documentació del grup DCS. Cavallers del Cel
 site_author: Viper
 site_url: http://dcs.cavallersdelcel.cat
 
@@ -106,8 +106,23 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Page tree
-pages:
+nav:
 - Introducció: 'index.md'
+- Guia pel nous:
+    - 'Benvingut': 'gn/index.md'
+    - 'Pas 1: Requisits tècnics': 'gn/pas1.md'
+    - 'Pas 2: Fòrums': 'gn/pas2.md'
+    - 'Pas 3: Discord': 'gn/pas3.md'
+    - 'Pas 4: Funcionament': 'gn/pas4.md'
+    - 'Pas 5: Diari de vol': 'gn/pas5.md'
+    - 'Pas 6: Entrenament': 'gn/pas6.md'
+    - 'Pas 7: Baixada de mòduls': 'gn/pas7.md'
+    - 'Pas 8: Instal·lació SRS': 'gn/pas8.md'
+    - 'Pas 9: CPB': 'gn/pas9.md'
+    - 'Pas 10: Primera missió': 'gn/pas10.md'
+    - 'Ja ets tot un pilot': 'gn/pilot.md'
+    - 'Notes finals':
+        - 'Crèdits': 'gn/notes/credits.md'
 
 # Google Analytics
 google_analytics:
