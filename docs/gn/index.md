@@ -17,4 +17,4 @@ Per tant, els únics requisits que demanem son:
 
 Si tens clars els punts anteriors, a continuació tens els passos a completar per convertir-te en un nou membre del grup. Si tens algun dubte, pots comunicar-te amb nosaltres per mitjà del nostre canal de Discord.
 
-[Següent pas >](http://dcs.cavallersdelcel.cat/gn/pas1)
+[Següent pas >](/gn/pas1)
