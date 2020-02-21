@@ -11,7 +11,7 @@ Els moduls es poden comprar al web oficial de [DCS World](https://www.digitalcom
 
 ## Instal·lació dels moduls
 
-Un cop comprat el moduls o moduls, has d'iniciar el simulador, identificar-te amb el teu usuari i contrasenya a dalt a l'esquerra, i allà mateix temps el botó per obrir el llistat de moduls disponibles i baixar els que hagis comprat.
+Un cop comprat el moduls o moduls, has d'iniciar el simulador, identificar-te amb el teu usuari i contrasenya a dalt a l'esquerra, i allà mateix tens el botó per obrir el llistat de moduls disponibles i baixar els que hagis comprat.
 
 ## Configuració dels moduls
 
