@@ -108,7 +108,7 @@ markdown_extensions:
 # Page tree
 nav:
 - Introducció: 'index.md'
-- Guia pel nous:
+- Guia pels nous:
     - 'Benvingut': 'gn/index.md'
     - 'Pas 1: Requisits tècnics': 'gn/pas1.md'
     - 'Pas 2: Fòrums': 'gn/pas2.md'
@@ -123,7 +123,16 @@ nav:
     - 'Ja ets tot un pilot': 'gn/pilot.md'
     - 'Notes finals':
         - 'Crèdits': 'gn/notes/credits.md'
-
+- Formacio: 
+    - '1. Curs bàsic de Pilot': 'formacio/cbp.md'
+    - '2. Protocols de comunicació per ràdio': 'formacio/comunicacions.md'
+    - '3. Planificació de missions i rols': 'formacio/rols.md'
+    - '4. Instrumentació bàsica i navegació aèria': 'formacio/navegacio.md'
+    - '5. Combat Aire/Aire': 'formacio/combat_aire_aire.md'
+    - '6. Combat Aire/Terra': 'formacio/combat_aire_terra.md'
+    - '7. Sistemes d\'aeronaus: Ràdios': 'formacio/sistemes_radios.md'
+    - '8. Sistemes d\'aeronaus: IFF': 'formacio/sistemes_IFF.md'
+    - '9. Fonaments de la mecanica del vol': 'formacio/mecanica_vol.md'
 # Google Analytics
 google_analytics:
   - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
