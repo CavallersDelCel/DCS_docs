@@ -130,8 +130,8 @@ nav:
     - '4. Instrumentació bàsica i navegació aèria': 'formacio/navegacio.md'
     - '5. Combat Aire/Aire': 'formacio/combat_aire_aire.md'
     - '6. Combat Aire/Terra': 'formacio/combat_aire_terra.md'
-    - '7. Sistemes d\'aeronaus: Ràdios': 'formacio/sistemes_radios.md'
-    - '8. Sistemes d\'aeronaus: IFF': 'formacio/sistemes_IFF.md'
+    - '7. Sistemes d\u0027aeronaus: Ràdios': 'formacio/sistemes_radios.md'
+    - '8. Sistemes d\u0027aeronaus: IFF': 'formacio/sistemes_IFF.md'
     - '9. Fonaments de la mecanica del vol': 'formacio/mecanica_vol.md'
 # Google Analytics
 google_analytics:
